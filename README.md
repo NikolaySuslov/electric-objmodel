@@ -1,4 +1,4 @@
-# Extensible object model and messaging semantics for Electric
+# Extensible object model and messaging semantics for Electric Clojure
 
 Electric-objmodel is a tiny prototype-based object model that adds messaging to the Electric Clojure. Three object types and five methods are sufficient to bootstrap an extensible object model and messaging semantics, that are described entirely in terms of those same objects and messages.
 
